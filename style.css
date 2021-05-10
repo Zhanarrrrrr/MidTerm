@@ -1,0 +1,501 @@
+.hoVVer {
+  background-image: url(ambulance.png);
+  float: left;
+}
+
+.hoVVer:hover {
+  background-image: url(baby.png);
+  float: left;
+}
+
+.hoVVer1 {
+  background-image: url(military1.png);
+  float: left;
+}
+
+.hoVVer1:hover {
+  background-image: url(military.png);
+  float: left;
+}
+
+
+
+.hoVVer2 {
+  background-image: url(uni.png);
+  float: left;
+}
+
+.hoVVer2:hover {
+  background-image: url(uni1.png);
+  float: left;
+}
+
+.header {
+  color: #575756;
+  margin-bottom: 20px;
+  margin-left: 120px;
+  margin-top: 10px;
+  font-family: 'Arvo', serif;
+}
+
+.header1 {
+  color: #575756;
+  ;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  margin-top: 15px;
+  font-size: 20px;
+  font-family: 'Arvo', serif;
+}
+
+.card-text {
+  font-family: 'Arvo', serif;
+}
+
+.hh {
+  font-family: 'Arvo', serif;
+}
+
+.header2 {
+  color: #575756;
+  margin-left: 15px;
+  font-size: 30px;
+  font-family: 'Arvo', serif;
+  padding: 30px 0px 0px 0px;
+}
+
+#sp {
+  padding: 60px 0px 0px 0px;
+}
+
+h4 {
+  font-family: 'Arvo', serif;
+}
+
+p {
+  font-family: 'Arvo', serif;
+}
+
+button {
+  font-family: 'Arvo', serif;
+}
+
+#header4 {
+  color: #575756;
+  margin-left: 15px;
+  font-size: 25px;
+  font-family: 'Arvo', serif;
+}
+
+.header3 {
+  margin-left: 2%;
+  font-family: 'Arvo', serif;
+}
+
+.text {
+  font-size: 20px;
+  margin-left: 15px;
+  color: #575756;
+  font-family: 'Arvo', serif;
+}
+
+#text {
+  font-size: 15px;
+  font-family: 'Arvo', serif;
+  color: black
+}
+
+.name {
+  padding: 10px;
+  font-family: 'Arvo', serif;
+}
+
+.img1 {
+  width: 200px;
+  height: 200px;
+  float: right;
+  position: absolute;
+  right: 50px;
+  border-radius: 10px;
+}
+
+#pic {
+  position: absolute;
+  left: 190px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+#text {
+  margin-left: 10px;
+  padding: 0px 0px 10px 85px;
+}
+
+.blocktext {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-left: 15px;
+  font-family: 'Arvo', serif;
+}
+
+#review {
+  font-size: 18px;
+  margin-left: 2px;
+  margin-bottom: 50px;
+  font-family: 'Arvo', serif;
+}
+
+#com {
+  padding: 45px 50px 95px 100px;
+  font-family: 'Arvo', serif;
+}
+
+#one {
+  font-weight: bold;
+  padding: 45px 15px 0px 95px;
+}
+
+#two {
+  font-weight: bold;
+}
+
+.carousel-item {
+  padding: 50px 0px 0px 0px;
+}
+
+.col {
+  padding: 0px 0px 0px 0px;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #dc3545;
+  ;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+/* arm page */
+#video {
+  width: 1000px;
+  height: 450px;
+}
+
+.navbar-custom {
+  background-color: #ff5500;
+}
+
+.button {
+  background-color: #f8f9fa;
+  border: none;
+  color: grey;
+  padding: 0px 69px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px 2px;
+  cursor: pointer;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.image-box {
+  position: relative;
+  margin-left: 90px;
+  overflow: hidden;
+}
+
+.image-box img {
+  max-width: 100%;
+  transition: all 1s;
+  display: block;
+  transform: scale(1);
+}
+
+.image-box:hover img {
+  transform: scale(1.2);
+}
+
+#price {
+  color: gray;
+  font-size: 30px;
+}
+
+#price1 {
+  color: red;
+  font-size: 30px;
+}
+
+#priceD {
+  color: red;
+  font-size: 20px;
+}
+
+#danger {
+  margin-top: 20px;
+  padding: 10px 40px;
+}
+
+#success {
+  margin-top: 20px;
+  padding: 10px 40px;
+}
+
+#def {
+  padding: 30px 0px 50px 110px;
+}
+
+#def1 {
+  padding: 30px 0px 0px 90px;
+}
+
+div.gallery {
+  margin: 4px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 300px;
+  margin-left: 170px;
+  margin-right: 0px;
+  margin-top: 20px;
+}
+
+div.gallery:hover {
+  border: 2px solid #777;
+}
+
+div.gallery img {
+  width: 300px;
+  height: 500px;
+  ;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-family: 'Arvo', serif;
+}
+
+a {
+  font-family: 'Arvo', serif;
+}
+
+#name {
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Arvo', serif;
+}
+
+h2 {
+  font-family: 'Arvo', serif;
+}
+
+#name1 {
+  padding: 0px 50px 30px 263px;
+}
+
+h3 {
+  font-family: 'Arvo', serif;
+}
+
+label {
+  font-family: 'Arvo', serif;
+}
+
+span {
+  font-family: 'Arvo', serif;
+}
+
+#ph1 {
+  width: 250px;
+  height: 250px;
+}
+
+#ph2 {
+  width: 250px;
+  height: 250px;
+}
+
+#ph3 {
+  width: 250px;
+  height: 250px;
+}
+
+.service {
+  height: 250px;
+  width: 100%;
+  object-fit: contain;
+}
+
+#dd {
+  padding: 30px 25px 10px 20px;
+}
+
+#dd1 {
+  padding: 30px 25px 10px 20px;
+}
+
+#dd7 {
+  padding: 0px 25px 10px 20px;
+}
+
+#dd8 {
+  padding: 20px 0px 0px 20px;
+}
+
+#dd2 {
+  padding: 70px 0px 0px 0px;
+}
+
+#dd3 {
+  padding: 70px 0px 70px 0px;
+  border-radius: 10px;
+}
+
+#da {
+  padding: 30px 0px 0px 30px;
+}
+
+.vertical-line {
+  display: inline-block;
+  border-left: 1px solid #ccc;
+  margin: 0px 270px;
+  height: 125px;
+}
+
+#news {
+  float: right;
+  text-align: tight;
+}
+
+#news1 {
+  float: right;
+  text-align: right;
+}
+
+#email {
+  float: right;
+  clear: both
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.hand {
+  padding: 30px 25px 10px 30px;
+}
+
+.hand1 {
+  padding: 30px 25px 10px 30px;
+}
+
+.hand3 {
+  padding: 0px 25px 10px 30px;
+}
+
+.hand5 {
+  padding: 30px 25px 10px 20px;
+}
+
+.hand6 {
+  padding: 10px 0px 0px 20px;
+}
+
+#hand7 {
+  padding: 0px 0px 0px 90px;
+}
+
+#photo {
+  width: 300px;
+  height: 200px;
+}
+
+#hand8 {
+  padding: 70px 0px 0px 30px;
+}
+
+.navbar-custom {
+  height: 70px;
+}
+
+#space {
+  padding: 90px 0px 0px 0px;
+}
+
+.new1 {
+  border: 1px solid red;
+  width: 50%;
+  border-radius: 3px;
+}
+
+#space1 {
+  margin-left: 30px;
+}
+
+#space2 {
+  margin-left: 30px;
+}
+
+#space3 {
+  margin-left: 30px;
+}
+
+#subs {
+  padding: 40px 0px 0px 0px;
+}
+
+#card1 {
+  margin-left: 110px;
+}
+
+#card2 {
+  margin-right: 110px;
+}
+
+#rr1 {
+  padding: 50px;
+}
+
+#footer {
+  padding: 20px 0 px 0 px 0px;
+}

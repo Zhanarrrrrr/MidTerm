@@ -1,0 +1,189 @@
+.hoVVer {
+  background-image: url(ambulance.png);
+  float: left;
+}
+
+.hoVVer:hover {
+  background-image: url(baby.png);
+  float: left;
+}
+
+.hoVVer1 {
+  background-image: url(military1.png);
+  float: left;
+}
+
+.hoVVer1:hover {
+  background-image: url(military.png);
+  float: left;
+}
+
+.hoVVer2 {
+  background-image: url(uni.png);
+  float: left;
+}
+
+.hoVVer2:hover {
+  background-image: url(uni1.png);
+  float: left;
+}
+
+.header {
+  color: #575756;
+  margin-bottom: 20px;
+  margin-left: 120px;
+  margin-top: 10px;
+  font-family: 'Arvo', serif;
+}
+
+.header1 {
+  color: #575756;
+  ;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  margin-top: 15px;
+  font-size: 20px;
+  font-family: 'Arvo', serif;
+}
+
+.card-text {
+  font-family: 'Arvo', serif;
+}
+
+.header2 {
+  color: #575756;
+  margin-left: 15px;
+  font-size: 30px;
+  font-family: 'Arvo', serif;
+}
+
+#header4 {
+  color: #575756;
+  margin-left: 15px;
+  font-size: 25px;
+  font-family: 'Arvo', serif;
+}
+
+.header3 {
+  margin-left: 2%;
+  font-family: 'Arvo', serif;
+}
+
+.text {
+  font-size: 20px;
+  margin-left: 15px;
+  color: #575756;
+  font-family: 'Arvo', serif;
+}
+
+#text {
+  font-size: 15px;
+  font-family: 'Arvo', serif;
+  color: black
+}
+
+.name {
+  padding: 10px;
+  font-family: 'Arvo', serif;
+}
+
+.img1 {
+  width: 200px;
+  height: 200px;
+  float: right;
+  position: absolute;
+  right: 50px;
+    border-radius: 10px;
+}
+
+#pic {
+  position: absolute;
+  left: 190px;
+
+
+}
+img{
+      border-radius: 10px;
+}
+#text {
+  margin-left: 10px;
+  padding: 0px 0px 10px 85px;
+}
+
+.blocktext {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-left: 15px;
+  font-family: 'Arvo', serif;
+}
+
+#review {
+  font-size: 18px;
+  margin-left: 2px;
+  margin-bottom: 50px;
+  font-family: 'Arvo', serif;
+}
+
+#com {
+  padding: 45px 50px 95px 100px;
+  font-family: 'Arvo', serif;
+}
+
+#one {
+  font-weight: bold;
+  padding: 45px 15px 15px 95px;
+}
+
+#two {
+  font-weight: bold;
+}
+
+.carousel-item {
+  padding: 50px 0px 0px 0px;
+}
+
+.col {
+  padding: 0px 0px 0px 0px;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #dc3545;;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+
+/* arm page */
+#video{
+  width:1000px;
+  height:500px;
+}
